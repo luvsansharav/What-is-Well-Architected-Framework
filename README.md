@@ -1,3 +1,4 @@
+# Table of contents
 * [What is Well-Architected Framework?](#What-is-Well-Architected-Framework?)
   * [Operational Excellence](#Operational-Excellence)
   * [Security](#Security)
