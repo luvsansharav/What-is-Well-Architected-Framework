@@ -1,5 +1,5 @@
 * [What is Well-Architected Framework?](#What is Well-Architected Framework?)
-  * [Operational Excellence](#Operational Excellence)
+  * [Operational Excellence](#OperationalExcellence)
   * [Security](#Security)
   * [Reliability](#Reliability)
   * [Performance Efficiency](#Performance Efficiency)
